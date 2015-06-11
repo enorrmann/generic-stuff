@@ -13,4 +13,5 @@ public interface Dao<T> {
 	public T create(T t);
 
 	public String delete(Long id);
+	// from cloud9
 }
